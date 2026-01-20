@@ -22,7 +22,6 @@ This repository provides the official implementation for the paper "IHDCP: Singl
   - `vanherk.p`
 - `input_images/`: Sample input images.
 - `output_images/`: Dehazed results generated after running `demo.m`.
-- `Statistics - Selected Image/`: Algorithm-related statistics.
 
 ## Notes
 - Do not rename or move `.p` files or change their relative paths; this may cause runtime errors.
